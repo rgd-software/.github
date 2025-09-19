@@ -38,28 +38,28 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 * [hyFoam, hy2Foam](https://github.com/hystrath/hyStrath) | [hyFoam, hy2Foam RGD-Software fork](https://github.com/rgd-software/hyStrath)
 
 #### 0-D, 1-D solvers
-* [Cantera.jl](https://github.com/Cantera/cantera)
+* [Cantera](https://github.com/Cantera/cantera)
 * [ChemicalReactions.jl](https://github.com/LeoBasov/chemical-kinetics.jl)
 * [L1D, Pitot, ESTCN, NENZF1d](https://github.com/gdtk-uq/gdtk)
 
 #### Reaction rates, relaxation times
-* [Cantera.jl](https://github.com/Cantera/cantera)
+* [Cantera](https://github.com/Cantera/cantera)
 * [Kappa](https://github.com/lkampoli/kappa)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 * [VT-relaxation](https://github.com/knstmrd/VT-relaxation)
 
 #### Thermodynamical data
-* [Cantera.jl](https://github.com/Cantera/cantera)
+* [Cantera](https://github.com/Cantera/cantera)
 * [Kappa](https://github.com/lkampoli/kappa)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
 #### Transport coefficients
-* [Cantera.jl](https://github.com/Cantera/cantera)
+* [Cantera](https://github.com/Cantera/cantera)
 * [Kappa](https://github.com/lkampoli/kappa)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
 #### Equilibrium compositions
-* [Cantera.jl](https://github.com/Cantera/cantera)
+* [Cantera](https://github.com/Cantera/cantera)
 * [equilibrium-c](https://github.com/uqngibbo/equilibrium-c)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
