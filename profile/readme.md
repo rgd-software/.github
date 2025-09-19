@@ -34,14 +34,23 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 ### Continuum methods (Euler, Navier-Stokes)
 
 #### Multi-dimensional solvers
+* [Eilmer](https://github.com/gdtk-uq/gdtk)
 * [hyFoam, hy2Foam](https://github.com/hystrath/hyStrath) | [hyFoam, hy2Foam RGD-Software fork](https://github.com/rgd-software/hyStrath)
 
 #### 0-D, 1-D solvers
 * [Cantera.jl](https://github.com/Cantera/cantera)
 * [ChemicalReactions.jl](https://github.com/LeoBasov/chemical-kinetics.jl)
+* [L1D, Pitot, ESTCN, NENZF1d](https://github.com/gdtk-uq/gdtk)
 
-#### Reaction rates
+#### Reaction rates, relaxation times
 * [Cantera.jl](https://github.com/Cantera/cantera)
+* [Kappa](https://github.com/lkampoli/kappa)
+* [Mutation++](https://github.com/mutationpp/Mutationpp)
+* [VT-relaxation](https://github.com/knstmrd/VT-relaxation)
+
+#### Thermodynamical data
+* [Cantera.jl](https://github.com/Cantera/cantera)
+* [Kappa](https://github.com/lkampoli/kappa)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
 #### Transport coefficients
@@ -49,9 +58,13 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 * [Kappa](https://github.com/lkampoli/kappa)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
+#### Equilibrium compositions
+* [Cantera.jl](https://github.com/Cantera/cantera)
+* [equilibrium-c](https://github.com/uqngibbo/equilibrium-c)
+* [Mutation++](https://github.com/mutationpp/Mutationpp)
 
 ### Moment methods
-* [fenicsR13](https://github.com/lamBOOO/fenicsR13) | [fenicsR13](https://github.com/rgd-software/fenicsR13)
+* [fenicsR13](https://github.com/lamBOOO/fenicsR13) | [fenicsR13 RGD-Software fork](https://github.com/rgd-software/fenicsR13)
 
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
 
@@ -60,6 +73,7 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 * [Pantera PIC-DSMC](https://github.com/vonkarmaninstitute/pantera-pic-dsmc) | [Pantera PIC-DSMC RGD-Software fork](https://github.com/rgd-software/pantera-pic-dsmc)
 * [PICLAS](https://github.com/piclas-framework/piclas) | [PICLAS RGD-Software fork](https://github.com/rgd-software/piclas)
 * [SPARTA](https://github.com/sparta/sparta) | [SPARTA RGD-Software fork](https://github.com/rgd-software/sparta)
+* [Starfish](https://github.com/particleincell/Starfish)
 
 #### Smaller-scale/research codes
 * [Merzbild.jl](https://github.com/merzbild/Merzbild.jl)
