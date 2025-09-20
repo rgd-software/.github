@@ -69,7 +69,7 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
 
 #### Large-scale codes
-* [dsmcFoam+](https://github.com/hystrath/hyStrath) | [dsmcFoam+ RGD-Software fork](https://github.com/rgd-software/hyStrath)
+* [dsmcFoam+](https://github.com/MicroNanoFlows/OpenFOAM-2.4.0-MNF) | [dsmcFoam+ RGD-Software fork](https://github.com/rgd-software/hyStrath)
 * [Pantera PIC-DSMC](https://github.com/vonkarmaninstitute/pantera-pic-dsmc) | [Pantera PIC-DSMC RGD-Software fork](https://github.com/rgd-software/pantera-pic-dsmc)
 * [PICLAS](https://github.com/piclas-framework/piclas) | [PICLAS RGD-Software fork](https://github.com/rgd-software/piclas)
 * [SPARTA](https://github.com/sparta/sparta) | [SPARTA RGD-Software fork](https://github.com/rgd-software/sparta)
