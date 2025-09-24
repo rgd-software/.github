@@ -36,6 +36,7 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 #### Multi-dimensional solvers
 * [Eilmer](https://github.com/gdtk-uq/gdtk)
 * [hyFoam, hy2Foam](https://github.com/hystrath/hyStrath) | [hyFoam, hy2Foam RGD-Software fork](https://github.com/rgd-software/hyStrath)
+* [SU2](https://github.com/su2code/SU2)
 
 #### 0-D, 1-D solvers
 * [Cantera](https://github.com/Cantera/cantera)
@@ -69,13 +70,16 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
 
 #### Large-scale codes
-* [dsmcFoam+](https://github.com/MicroNanoFlows/OpenFOAM-2.4.0-MNF) | [dsmcFoam+ RGD-Software fork](https://github.com/rgd-software/hyStrath)
+* [dsmcFoam](https://github.com/MicroNanoFlows/OpenFOAM-2.4.0-MNF) | [dsmcFoam RGD-Software fork](https://github.com/rgd-software/OpenFOAM-2.4.0-MNF)
+* [dsmcFoam+](https://github.com/hystrath/hyStrath) | [dsmcFoam+ RGD-Software fork](https://github.com/rgd-software/hyStrath)
 * [Pantera PIC-DSMC](https://github.com/vonkarmaninstitute/pantera-pic-dsmc) | [Pantera PIC-DSMC RGD-Software fork](https://github.com/rgd-software/pantera-pic-dsmc)
 * [PICLAS](https://github.com/piclas-framework/piclas) | [PICLAS RGD-Software fork](https://github.com/rgd-software/piclas)
 * [SPARTA](https://github.com/sparta/sparta) | [SPARTA RGD-Software fork](https://github.com/rgd-software/sparta)
-* [Starfish](https://github.com/particleincell/Starfish)
+* [Smilei](https://github.com/SmileiPIC/Smilei) | [Smilei RGD-Software fork](https://github.com/rgd-software/Smilei)
+* [Starfish](https://github.com/particleincell/Starfish) | [Starfish RGD-Software fork](https://github.com/rgd-software/Starfish)
 
 #### Smaller-scale/research codes
+* [eduPIC](https://github.com/donkozoltan/eduPIC)
 * [Merzbild.jl](https://github.com/merzbild/Merzbild.jl)
 * [ParticLas](https://github.com/OttTs/ParticLas.jl)
 * [Python octree-DSMC code](https://github.com/LeoBasov/dsmc-python)
