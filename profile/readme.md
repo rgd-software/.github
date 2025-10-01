@@ -1,6 +1,8 @@
 Welcome to RGD-Software !
 
 ## Rarefied gas dynamics
+<img src="[url](https://en.wikipedia.org/wiki/Draft:Rarefied_gas_dynamics#/media/File:Particle_Simulation_Over_a_Flat_Plate.gif)" alt="Rarefied Argon Plate" align="right">
+
 Rarefied gas dynamics studies gas and plasma flows with low densities where the mean free path is significant compared to the flow characteristic spatial dimension, making the use of kinetic equations necessary and surface interactions crucial. The central characteristic number relevant to these processes is the Knudsen number  
 ```math
 Kn = \frac{\lambda}{D},
