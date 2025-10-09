@@ -83,3 +83,9 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 * [Merzbild.jl](https://github.com/merzbild/Merzbild.jl)
 * [ParticLas](https://github.com/OttTs/ParticLas.jl)
 * [Python octree-DSMC code](https://github.com/LeoBasov/dsmc-python)
+
+### Discrete-velocity and semi-Lagrangian codes
+* [NumericalFlowIteration](https://github.com/paulwilhelmvlasov/NumericalFlowIteration) | [NumericalFlowIteration RGD-Software fork](https://github.com/rgd-software/NumericalFlowIteration)
+
+### Spectral methods
+* [2D/3V Flux-reconstructed Discontinuous Galerkin Fast Spectral (DGFS)](https://github.itap.purdue.edu/DGFSproj/DGFS-BE-Solver)
