@@ -66,6 +66,8 @@ The Symposium invites scientists from several disciplines to discuss basic scien
 
 ### Moment methods
 * [fenicsR13](https://github.com/lamBOOO/fenicsR13) | [fenicsR13 RGD-Software fork](https://github.com/rgd-software/fenicsR13)
+* [PyQBMMlib](https://github.com/comp-physics/PyQBMMlib) | [PyQBMMlib RGD-Software fork](https://github.com/ACoM-RWTH/PyQBMMlib)
+* [QBMMlib](https://github.com/comp-physics/QBMMlib) | [QBMMlib RGD-Software fork](https://github.com/ACoM-RWTH/QBMMlib)
 
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
 
