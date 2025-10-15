@@ -1,7 +1,7 @@
 Welcome to RGD-Software !
 
 ## Rarefied gas dynamics
-<a title="Dreamchaser4180, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Particle_Simulation_Over_a_Flat_Plate.gif"><img width="200" align="right" alt="Argon gas flowing over a flat plate at angle of attack" src="https://github.com/user-attachments/assets/78d7e2f7-b1d3-4576-a332-f96cedf79bbe"></a>
+<a title="Dreamchaser4180, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Particle_Simulation_Over_a_Flat_Plate.gif"><img width="200" align="right" alt="Argon gas flowing over a flat plate at angle of attack" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Particle_Simulation_Over_a_Flat_Plate.gif"></a>
 
 Rarefied gas dynamics studies gas and plasma flows with low densities where the mean free path is significant compared to the flow characteristic spatial dimension, making the use of kinetic equations necessary and surface interactions crucial. The central characteristic number relevant to these processes is the Knudsen number  
 ```math
