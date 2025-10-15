@@ -49,6 +49,8 @@ Very often this research activity leads to scientific software to simulate, anal
 
 ### Moment methods
 * [fenicsR13](https://github.com/lamBOOO/fenicsR13) | [fenicsR13 RGD-Software fork](https://github.com/rgd-software/fenicsR13)
+* [PyQBMMlib](https://github.com/comp-physics/PyQBMMlib) | [PyQBMMlib RGD-Software fork](https://github.com/ACoM-RWTH/PyQBMMlib)
+* [QBMMlib](https://github.com/comp-physics/QBMMlib) | [QBMMlib RGD-Software fork](https://github.com/ACoM-RWTH/QBMMlib)
 
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
 
@@ -66,6 +68,12 @@ Very often this research activity leads to scientific software to simulate, anal
 * [Merzbild.jl](https://github.com/merzbild/Merzbild.jl)
 * [ParticLas](https://github.com/OttTs/ParticLas.jl)
 * [Python octree-DSMC code](https://github.com/LeoBasov/dsmc-python)
+
+### Discrete-velocity and semi-Lagrangian codes
+* [NumericalFlowIteration](https://github.com/paulwilhelmvlasov/NumericalFlowIteration) | [NumericalFlowIteration RGD-Software fork](https://github.com/rgd-software/NumericalFlowIteration)
+
+### Spectral methods
+* [2D/3V Flux-reconstructed Discontinuous Galerkin Fast Spectral (DGFS)](https://github.itap.purdue.edu/DGFSproj/DGFS-BE-Solver)
 
 ## RGD Symposium
 The community of rarefied gas dynamics gathers at the [**International Symposium on Rarefied Gas Dynamics**](https://www.rarefiedgasdynamics.org/) - a biennial academic conference. These symposia are a forum for the presentation of recent advances in the field of rarefied gas dynamics. Research presented encompasses applications of space, materials, and propulsion, as well as the basic physics of molecular interactions, gas surface interactions, kinetic theory, astronomical observations, gas transport, multi-phase flows, combustion, non-equilibrium hypersonic gas dynamics, and plasma processing. The first symposium was held in 1958 in Nice, France. Since that time, the symposia have been organized in various countries in North America, Europe, Asia, and Australia.
