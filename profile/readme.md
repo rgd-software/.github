@@ -34,22 +34,25 @@ Very often this research activity leads to scientific software to simulate, anal
 
 #### Thermodynamical data
 * [Cantera](https://github.com/Cantera/cantera)
+* [CEA](https://github.com/rgd-software/cea)
 * [Kappa](https://github.com/lkampoli/kappa)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
 #### Transport coefficients
 * [Cantera](https://github.com/Cantera/cantera)
+* [CEA](https://github.com/rgd-software/cea)
 * [Kappa](https://github.com/lkampoli/kappa)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
 #### Equilibrium compositions
 * [Cantera](https://github.com/Cantera/cantera)
+* [CEA](https://github.com/rgd-software/cea)
 * [equilibrium-c](https://github.com/uqngibbo/equilibrium-c)
 * [Mutation++](https://github.com/mutationpp/Mutationpp)
 
 ### Moment methods
 * [fenicsR13](https://github.com/lamBOOO/fenicsR13) | [fenicsR13 RGD-Software fork](https://github.com/rgd-software/fenicsR13)
-* [PyQBMMlib](https://github.com/comp-physics/PyQBMMlib) | [PyQBMMlib RGD-Software fork](ttps://github.com/rgd-software/PyQBMMlib)
+* [PyQBMMlib](https://github.com/comp-physics/PyQBMMlib) | [PyQBMMlib RGD-Software fork](https://github.com/rgd-software/PyQBMMlib)
 * [QBMMlib](https://github.com/comp-physics/QBMMlib) | [QBMMlib RGD-Software fork](https://github.com/rgd-software/QBMMlib) 
 
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
