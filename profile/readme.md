@@ -81,6 +81,9 @@ Very often this research activity leads to scientific software to simulate, anal
 ### Spectral methods
 * [2D/3V Flux-reconstructed Discontinuous Galerkin Fast Spectral (DGFS)](https://github.itap.purdue.edu/DGFSproj/DGFS-BE-Solver)
 
+### Ray-tracing methods
+* [OpenPlume Plume Impingement Simulation Tools](https://www.openplume.org)
+
 ## RGD Symposium
 The community of rarefied gas dynamics gathers at the [**International Symposium on Rarefied Gas Dynamics**](https://www.rarefiedgasdynamics.org/) - a biennial academic conference. These symposia are a forum for the presentation of recent advances in the field of rarefied gas dynamics. Research presented encompasses applications of space, materials, and propulsion, as well as the basic physics of molecular interactions, gas surface interactions, kinetic theory, astronomical observations, gas transport, multi-phase flows, combustion, non-equilibrium hypersonic gas dynamics, and plasma processing. The first symposium was held in 1958 in Nice, France. Since that time, the symposia have been organized in various countries in North America, Europe, Asia, and Australia.
 
