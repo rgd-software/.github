@@ -20,6 +20,7 @@ Very often this research activity leads to scientific software to simulate, anal
 * [Eilmer](https://github.com/gdtk-uq/gdtk)
 * [hyFoam, hy2Foam](https://github.com/hystrath/hyStrath) | [hyFoam, hy2Foam RGD-Software fork](https://github.com/rgd-software/hyStrath)
 * [SU2](https://github.com/su2code/SU2)
+* [Method-Of-Characteristics-Nozzle-Solver](https://github.com/AdmiralOctavio/Method-Of-Characteristics-Nozzle-Solver)
 
 #### 0-D, 1-D solvers
 * [Cantera](https://github.com/Cantera/cantera)
