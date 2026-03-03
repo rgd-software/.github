@@ -23,6 +23,7 @@ Very often this research activity leads to scientific software to simulate, anal
 * [Method-Of-Characteristics-Nozzle-Solver](https://github.com/AdmiralOctavio/Method-Of-Characteristics-Nozzle-Solver)
 * [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
 * [Proof-of-concept extension of Trixi.jl to inviscid multi-species reacting flows](https://github.com/knstmrd/paper_ec_trixi_chem)
+* [Hyper2d](https://github.com/sbocce/hyper2d)
 
 #### 0-D, 1-D solvers
 * [Cantera](https://github.com/Cantera/cantera)
