@@ -24,6 +24,7 @@ Very often this research activity leads to scientific software to simulate, anal
 * [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
 * [Proof-of-concept extension of Trixi.jl to inviscid multi-species reacting flows](https://github.com/knstmrd/paper_ec_trixi_chem)
 * [Hyper2d](https://github.com/sbocce/hyper2d)
+* [QGDSolver](https://github.com/unicfdlab/QGDsolver)
 
 #### 0-D, 1-D solvers
 * [Cantera](https://github.com/Cantera/cantera)
@@ -69,6 +70,7 @@ Very often this research activity leads to scientific software to simulate, anal
 * [SPARTA](https://github.com/sparta/sparta) | [SPARTA RGD-Software fork](https://github.com/rgd-software/sparta)
 * [Smilei](https://github.com/SmileiPIC/Smilei) | [Smilei RGD-Software fork](https://github.com/rgd-software/Smilei)
 * [Starfish](https://github.com/particleincell/Starfish) | [Starfish RGD-Software fork](https://github.com/rgd-software/Starfish)
+* [uniGasFoam](https://github.com/NVasileiadis93/uniGasFoam) | [uniGasFoam RGD-Software fork](https://github.com/rgd-software/uniGasFoam)
 
 #### Smaller-scale/research codes
 * [eduPIC](https://github.com/donkozoltan/eduPIC)
