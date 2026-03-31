@@ -58,7 +58,8 @@ Very often this research activity leads to scientific software to simulate, anal
 ### Moment methods
 * [fenicsR13](https://github.com/lamBOOO/fenicsR13) | [fenicsR13 RGD-Software fork](https://github.com/rgd-software/fenicsR13)
 * [PyQBMMlib](https://github.com/comp-physics/PyQBMMlib) | [PyQBMMlib RGD-Software fork](https://github.com/rgd-software/PyQBMMlib)
-* [QBMMlib](https://github.com/comp-physics/QBMMlib) | [QBMMlib RGD-Software fork](https://github.com/rgd-software/QBMMlib) 
+* [QBMMlib](https://github.com/comp-physics/QBMMlib) | [QBMMlib RGD-Software fork](https://github.com/rgd-software/QBMMlib)
+* [1D DG Fortran code for Grad-13 Moment Equations](https://github.com/Satyvir-Singh/Satya_G13_DG_Code)
 
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
 
@@ -68,6 +69,7 @@ Very often this research activity leads to scientific software to simulate, anal
 * [Pantera PIC-DSMC](https://github.com/vonkarmaninstitute/pantera-pic-dsmc) | [Pantera PIC-DSMC RGD-Software fork](https://github.com/rgd-software/pantera-pic-dsmc)
 * [PICLAS](https://github.com/piclas-framework/piclas) | [PICLAS RGD-Software fork](https://github.com/rgd-software/piclas)
 * [SPARTA](https://github.com/sparta/sparta) | [SPARTA RGD-Software fork](https://github.com/rgd-software/sparta)
+* [SPARTACUS Unified Stochastic Particle Solver](https://github.com/BUAA-MARS-group/SPARTACUS)
 * [Smilei](https://github.com/SmileiPIC/Smilei) | [Smilei RGD-Software fork](https://github.com/rgd-software/Smilei)
 * [Starfish](https://github.com/particleincell/Starfish) | [Starfish RGD-Software fork](https://github.com/rgd-software/Starfish)
 * [uniGasFoam](https://github.com/NVasileiadis93/uniGasFoam) | [uniGasFoam RGD-Software fork](https://github.com/rgd-software/uniGasFoam)
