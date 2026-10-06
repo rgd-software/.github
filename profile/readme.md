@@ -22,7 +22,7 @@ Very often this research activity leads to scientific software to simulate, anal
 * [SU2](https://github.com/su2code/SU2)
 * [Method-Of-Characteristics-Nozzle-Solver](https://github.com/AdmiralOctavio/Method-Of-Characteristics-Nozzle-Solver)
 * [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
-* [Proof-of-concept extension of Trixi.jl to inviscid multi-species reacting flows](https://github.com/knstmrd/paper_ec_trixi_chem)
+* [Extensions of Trixi.jl to inviscid multi-species reacting flows](https://github.com/ACoM-RWTH/AeroTrixi.jl)
 * [Hyper2d](https://github.com/sbocce/hyper2d)
 * [QGDSolver](https://github.com/unicfdlab/QGDsolver)
 
