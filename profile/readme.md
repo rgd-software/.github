@@ -60,6 +60,7 @@ Very often this research activity leads to scientific software to simulate, anal
 * [PyQBMMlib](https://github.com/comp-physics/PyQBMMlib) | [PyQBMMlib RGD-Software fork](https://github.com/rgd-software/PyQBMMlib)
 * [QBMMlib](https://github.com/comp-physics/QBMMlib) | [QBMMlib RGD-Software fork](https://github.com/rgd-software/QBMMlib)
 * [1D DG Fortran code for Grad-13 Moment Equations](https://github.com/Satyvir-Singh/Satya_G13_DG_Code)
+* [Sparse Entropic Quadrature Method](https://github.com/ACoM-RWTH/SPEcQK.jl)
 
 ### Direct Simulation Monte Carlo (DSMC), Particle-in-Cell (PIC)
 
